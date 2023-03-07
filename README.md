@@ -1,4 +1,4 @@
-# Wikipedia RESTful API
+# Wikipedia Restful API
 
 An API for Wikipedia that handles article reading, posting, updating or deleting.
 
